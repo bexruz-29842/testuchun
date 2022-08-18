@@ -1,0 +1,20 @@
+.col-lg-6 {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.col-lg-6{position: relative;
+width: 100%;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+}
+.section-title {
+  font-size: 38px;
+  line-height: 52px;
+  margin-bottom: 25px;
+  font-family: "PFDinTextCondPro", sans-serif;
+  text-align: center;
+  font-weight: 300;
+  margin-top: 20px;
+}
